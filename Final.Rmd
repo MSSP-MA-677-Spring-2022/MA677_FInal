@@ -39,8 +39,8 @@ result(2.5,5)
 approxmedi(2.5,5)
 
 # n = 10
-result(4,10)
-approxmedi(4,10)
+(result(4,10) + result(5,10))/2
+(approxmedi(4,10) + approxmedi(5,10))/2
 ```
 
 ### Question 4.27
